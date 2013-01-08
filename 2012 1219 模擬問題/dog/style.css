@@ -1,0 +1,76 @@
+/* 全ページ共通のデザイン用 */
+body{
+	color:#000000;
+	background-color:#ffffff;
+	margin:0;
+}
+h1{     
+	color:#ffffff;
+	background-color:#003366;
+	font-family:"Century Gothic","Osaka",sans-serif;
+	border-bottom-style:solid;
+	border-bottom-width:8px;
+	border-color:#ff6633;
+	padding:10px;
+	margin-top:0;
+	
+}
+h2{     padding:8px;
+	color:#003366;
+	background-color:#ffffff;
+	font-size:120%;
+}
+p,ul{ 
+	margin-left:50px;
+}
+img{	
+	border-width:0;
+}
+
+/* リンク部分のデザイン用 */
+a:link{
+	color:#ff3300;
+}
+a:visited{
+	color:#666666;
+}
+a:hover{
+	font-weight:bold;
+}
+
+/* テーブルのデザイン用 */
+table{
+	margin-left:40px;
+	width:400px;
+}
+th{
+	color:#000000;
+	background-color:#ff9933;
+	padding:3px;
+}
+td{
+	color:#000000;
+	background-color:#ffcc66;
+	padding:5px;
+}
+.price{
+	text-align:right;
+}
+
+/* 配置レイアウト用 */
+.top{
+	background-image:url("images/kabe.gif");
+	text-align:center;
+}
+.photo{
+	margin-right:20px;
+	float:left;
+}
+
+/*文字装飾用*/
+.title{
+	font-size:280%;
+}
+.subtitle{
+	font-size:160%;
+}
