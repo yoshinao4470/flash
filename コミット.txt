@@ -1,1 +1,26 @@
-﻿かきく
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+ "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="ja">
+<!--1T1 41 鈴木克直-->
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+	<link rel="stylesheet"href="kadai02.css"type="text/css">
+	<title>課題02</title>
+</head>
+
+<body>
+	<h1>よくある質問</h1>
+		<h2>HTMLって何ですか？</h2>
+		<p>HTMLとはHyperText Markup Language（ハイパーテキストマークアップ言語）の略語です。<em>タグ</em>といわれる手段を使ってテキストに文書の構造や修飾情報などを追加し、コンピュータが情報を読めるようにする言語のことです。この言語を使って記述されたHTMLファイルを<em>ブラウザ（Webブラウザ）</em>で読み込むことで、Webページとして閲覧できるようになります。</p>
+		<p>HTMLは一定の決まりに沿って記述する性質のものなので、基本を理解すれば、比較的容易にHTMLファイルを作成することができます。HTMLは現在、<em>W3C（World Wide Web Consortium）</em>という団体によって標準化が行なわれています。最新版は1999年12月24日に勧告されたHTML4.01です。</p>
+
+		<h2>ブラウザって何ですか？</h2>
+		<p>Webページを閲覧するためのソフトウェアのことです。</p>
+		<p>代表的なブラウザにMicrosoft社の<em>Internet Explorer</em>がありますが、それ以外にもMozillaの<em>FireFox</em>、Opera Software社<em>Opera</em>など非常に多くのものが存在します。これら多くのブラウザでは画像も扱えますが、テキストしか表示できないブラウザもあります。他にも目の不自由な人のためにHTML文書を読み上げる音声読み上げブラウザも存在します。このような多くのブラウザで閲覧されるWebページでは、HTMLの意味的構造をしっかりと記述することが重要となります。</p>
+
+		<h2>Webページを作るには何が必要ですか？</h2>
+		<p>テキストエディタがあればHTML文書は作成できます。しかし、作成したHTMLファイルをWebページとして公開するためには、ファイルをWebサーバに送信しなくてはなりません。そのための<em>FTPソフト</em>が必要です。</p>
+		<p>Webページに画像や映像、音などをつけたい場合は、利用したい素材を用意します。これは市販の素材集や、インターネット上で素材を提供しているサイトから入手することができます。これらのデータを自分で編集して使用したいのであれば、それぞれのデータが編集可能なソフトが必要です。</p>
+</body>
+
+</html>
